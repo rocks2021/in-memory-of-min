@@ -20,52 +20,52 @@ meta: "Hong Kong"
  
 过了一年，我们成了大二老生，为了迎接1997级的师弟师妹们入学，我们组织迎新晚会，这也是系里的传统。当时我从其他朋友那里听到了一个剧本，改编过的《陈世美与秦香莲》，后来号召同学们来演。陈敏个性开朗，欣然接受了秦香莲的角色，我同寝室的一名男生张凯出演陈世美。小品具体的内容现在已经忘记，剧本也没有保留，那时更没有影片记录，但陈敏的爽朗让大家牢记不忘。
  
-<img src="/images/2.jpeg" alt="2" style="width:800px; height: auto"/>  
+<img src="/images/2.jpeg" class="img-fluid" alt="2" style="width:800px; height: auto"/>  
 
 整个大学期间，陈敏成绩优异，本科毕业之后去加州理工学院攻读地震学博士学位。此外，她也积极参加系里的各项活动，98年5月23日还参加了“星云杯”卡拉OK大赛。大三期间，她还担任了系学生会主席，组织了一系列活动，也深受其他年级的同学们爱戴。
  
-<img src="/images/3.jpeg" alt="3" style="width:800px; height: auto"/>
+<img src="/images/3.jpeg" class="img-fluid" alt="3" style="width:800px; height: auto"/>
  
 除了学习成绩优异，陈敏的运动天赋也很突出。别看她的个子小，却擅长长跑，拿过校运动会1500米比赛的冠军。科大的传统之一是巾帼杯女足比赛，陈敏入学之后，迅速成为女足主力，大学期间担任7系的女足主力前锋。有一次去西区比赛，对方后卫无球防守她经常采取拉扯等犯规动作，裁判又不吹，中场休息时她来问我怎么办，我建议她变速变向跑动，陈敏迅速掌握并应用。她对足球的热爱一直延续到她去加州理工读博士，以及到密歇根州立大学做助理教授期间。除了足球，她的兴趣广泛，在美国期间，滑雪、攀岩、跳舞等等都颇为投入。
  
-<img src="/images/4.jpeg" alt="4" style="width:800px; height: auto"/>
+<img src="/images/4.jpeg" class="img-fluid" alt="4" style="width:800px; height: auto"/>
  
 大学期间，我们某次去体育馆滑旱冰，有万柯松、刘晓峰等同学，陈敏手腕摔伤了，却毫不退后，依然笑着站起来和大家继续滑。这是她长久以来给我的印象，顽强不服输，不轻易言退。
  
 读博士期间，同学们经常在美国地球物理学会（AGU）年会上相聚。每次AGU见到陈敏，她总是认真打扮，算得盛装出席，让人扑面感受到她对生活的热爱。
   
-<img src="/images/5.jpeg" alt="5" style="width:800px; height: auto"/>
+<img src="/images/5.jpeg" class="img-fluid" alt="5" style="width:800px; height: auto"/>
  
 2008年，我和太太去洛杉矶游玩。陈敏当时有事儿外出，但提前把房间钥匙留给朋友，借房子给我们住。还细心地烤了一份饼干，写了一张字条留在茶几上，让我们万分感动。
  
 她不仅对朋友热心相助，对陌生人也是如此，哪怕只有一面之缘，甚至是尚未谋面的学生。
  
-<img src="/images/6.jpeg" alt="6" style="width:800px; height: auto"/>
+<img src="/images/6.jpeg" class="img-fluid" alt="6" style="width:800px; height: auto"/>
 
-<img src="/images/7.jpeg" alt="7" style="width:800px; height: auto"/>
+<img src="/images/7.jpeg" class="img-fluid" alt="7" style="width:800px; height: auto"/>
  
 2009年8月，她搬家去波士顿，开始在麻省理工学院博士后的新阶段。驱车从洛杉矶横跨美国前往波士顿，中途还因为原本的车出了问题，临时卖掉并重新买了一辆车。路过圣路易斯时，来我家住了一晚。第二天我们带她短暂地在圣路易斯森林公园和动物园逛了一下，然后她开车继续东进。陈敏给我的感觉就是那样，生活中会有意外，但绝不会影响她微笑着热情前进的步伐。
 
-<img src="/images/8.jpeg" alt="8" style="width:800px; height: auto"/>
+<img src="/images/8.jpeg" class="img-fluid" alt="8" style="width:800px; height: auto"/>
  
 2010年我搬往Cape cod之后，陈敏在波士顿，偶尔我们会进城去找她，她还带我们去中国超市买菜。期间也酝酿着她来WHOI来给一个报告，可惜时间不凑巧未能成行。后来她离开麻省理工，前往Rice大学。当时我们差不多都处在找工作的档口，偶尔也会电话交流一下科研的进展，找工作以及写基金的心得等等。再后来，我搬离了美国，少了联系。但得知她结婚生女，入职密歇根州立大学，并于2020年拿到了美国自然科学基金会的杰出青年大奖（NSF Career Award），由衷地为她感到高兴。
  
 她的研究方向是利用基于伴随波场的波形成像方法（Adjoint Waveform Tomography），研究地球内部结构和动力学过程。这个方法是业界公认的先进手段，可以获得地球内部高清图像。限制就是，计算力要求很高。不过在当前计算能力突飞猛进的年代，这根本不能算作限制。她虽然专注于地震成像，但也表现出了对地震震源的兴趣，2020年的上半年也与我沟通了一些相关问题，还让我发了一些组里的文章给她。可惜，我们的合作还未正式开始。
  
-<img src="/images/9.jpeg" alt="9" style="width:800px; height: auto"/>
+<img src="/images/9.jpeg" class="img-fluid" alt="9" style="width:800px; height: auto"/>
  
 2018年10月，她应邀回北京开地球深部探测的国际会议，姚华建也在。某一晚我请大家吃饭，第二天与同系的其他朋友一起聚会，陈敏永远是笑的。
  
-<img src="/images/10.jpeg" alt="10" style="width:800px; height: auto"/>
+<img src="/images/10.jpeg" class="img-fluid" alt="10" style="width:800px; height: auto"/>
  
 2020年全球疫情肆虐，陈敏有一段在微信上十分活跃，积极和大家联系。11月，她还组织了我们几个同学网上聚会，聊天时得知她压力很大，和她老公矛盾颇深，提及警察已经给她老公发了限制令。我们还劝解说，家家都有矛盾，希望她可以尽快走出来，尤其还有两个小孩。虽然很无力很苍白，但确实理解她的艰难处境。她在2021年1月17日发了下面这张照片，题目为“非对称战争”。
 
-<img src="/images/11.jpeg" alt="11" style="width:800px; height: auto"/>
+<img src="/images/11.jpeg" class="img-fluid" alt="11" style="width:800px; height: auto"/>
  
 再后来，就只是看到她在微信与facebook的一些更新，直至2021年5月之后的沉寂。
  
 陈敏给很多人的印象一直是正面积极，微笑着，热爱生活。在我眼里，她永远不会服输，会向着她追求的光芒积极奔跑、进取。只是某一瞬间，某一束光痛的刺眼，痛彻心扉，让她都不愿回顾她那灿烂的过往，让她彻底放下那么多关心她的亲人朋友，让大家，讲不出再见。
  
-<img src="/images/12.jpeg" alt="12" style="width:800px; height: auto"/>
+<img src="/images/12.jpeg" class="img-fluid" alt="12" style="width:800px; height: auto"/>
  
 但你曾让很多人的世界变得更加美丽、精彩，你的优秀和美好必将被深深怀念。
